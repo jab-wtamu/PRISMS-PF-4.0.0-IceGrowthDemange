@@ -1,4 +1,4 @@
-# Simulation outputs and HPC artifacts
+# Simulation outputs and HPC artifacts 
 build/
 runs/
 logs/
