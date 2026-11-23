@@ -1,4 +1,4 @@
-# Demange Ice Growth Model — PRISMS-PF 4.0.0
+# Demange Ice Growth Model — PRISMS-PF 4.0.0 
 
 This application models three-dimensional snow-crystal growth using a phase-field
 formulation. Two adaptive-mesh-refinement (AMR) configurations are provided:
