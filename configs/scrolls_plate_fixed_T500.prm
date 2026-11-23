@@ -9,7 +9,7 @@
 set global refinement = 3
 set mesh type = rectangular
 subsection Rectangular mesh
-  set x size = 320
+  set x size = 320 
   set y size = 320
   set z size = 51.2
   set x subdivisions = 25
