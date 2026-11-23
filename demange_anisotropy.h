@@ -3,13 +3,7 @@
 //
 // Header-only implementation independent of deal.II and PRISMS-PF.
 // Includes the supplemental literal and pole-regular anisotropy variants.
-//
 
-// Angle conventions ([P]; folded as in the PF3 code):
-//   theta = atan2(n_y, n_x), psi = atan2(sqrt(n_x^2 + n_y^2), n_z)
-//   th = |remainder(theta, pi/3)| in [0, pi/6]  (6-fold rotation + mirror theta -> -theta)
-//   ps = atan2(rho, |n_z|)       in [0, pi/2]  (A is even in n_z)
-// Every model returns A, dA/dth, dA/dps and A_th_over_sin = (dA/dth)/sin(ps) in folded angles.
 
 #pragma once
 
