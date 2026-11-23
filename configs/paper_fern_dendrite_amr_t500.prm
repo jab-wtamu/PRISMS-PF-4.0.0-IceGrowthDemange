@@ -12,7 +12,7 @@ subsection Rectangular mesh
   set x subdivisions = 25
   set y subdivisions = 25
   set z subdivisions = 4
-end
+end 
 
 set mesh adaptivity = true
 set max refinement = 3
