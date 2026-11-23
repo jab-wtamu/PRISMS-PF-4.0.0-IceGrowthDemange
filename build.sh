@@ -1,5 +1,5 @@
 #!/bin/bash
-# Convenience build wrapper for PRISMS-PF 4.0.0 on ACES.
+# Convenience build wrapper for PRISMS-PF 4.0.0 on ACES. 
 # Set PRISMS_PF_INSTALL and DEAL_II_INSTALL to existing built/install locations.
 # Use a compatible PRISMS-PF 4.0.0 and deal.II installation.
 set -euo pipefail
