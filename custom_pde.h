@@ -1,12 +1,4 @@
 // Demange snow-crystal growth model -- PRISMS-PF 4.0.0, 3D.
-//
-// The modular phase-field formulation provides configurable conventions:
-//   half_convention: variational | demange_literal
-//   q_normalization: one_sided | demange_literal
-//   gamma_structure: demange_literal | stretched_variational
-//   anisotropy: pole_regular | supplement_literal
-//   pole_weight: sin6 | sin4 | sin8 | quintic
-//
 // Required Model constants are validated at initialization. Missing and unused
 // constants are rejected to keep configurations reproducible.
 
