@@ -1,5 +1,5 @@
 ##
-#  CMake script for the PRISMS-PF applications
+#  CMake script for the PRISMS-PF applications 
 ##
 
 cmake_minimum_required(VERSION 3.25)
