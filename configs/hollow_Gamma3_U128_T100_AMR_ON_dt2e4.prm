@@ -11,7 +11,7 @@ subsection Rectangular mesh
   set y size = 51.2
   set z size = 102.4
   set x subdivisions = 4
-  set y subdivisions = 4
+  set y subdivisions = 4 
   set z subdivisions = 8
 end
 
