@@ -1,7 +1,5 @@
 # PRISMS PhaseField: Snow Crystal Growth
 
-*Mathematical derivation by Professor Pal, based on the model presented by Demange et al. Transcribed from the supplied three-page derivation, preserving its notation and calculation sequence.*
-
 > This document records the original derivation. The PRISMS-PF 4.0.0 application uses configurable flux conventions, anisotropy regularization, and natural boundary conditions; the derivation below is reproduced without changing those equations.
 
 ## Kinetics
