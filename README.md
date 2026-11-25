@@ -6,6 +6,7 @@ a Fern dendrite and a Hollow Prism.
 
 ## Files
 
+- [`EQUATIONS.md`](EQUATIONS.md) — original mathematical derivation: kinetics, time discretization, and weak formulation.
 - `main.cc` — declares the model fields and computational workflow.
 - `custom_pde.h` — Demange phase-field equations and initial conditions.
 - `demange_anisotropy.h` — anisotropy calculations.
