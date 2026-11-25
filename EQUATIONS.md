@@ -16,8 +16,7 @@ A(\mathbf{n})^2\partial_t\phi
 \left(
 |\nabla\phi|^2\frac{\partial[A(\mathbf{n})^2]}{\partial\nabla\phi}
 +A(\mathbf{n})^2\nabla_\Gamma\phi
-\right)
-$$
+\right)$$
 
 Defining $\nabla_\Gamma=\Gamma\nabla$, we get
 
